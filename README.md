@@ -1,2 +1,2 @@
 # Kensly_porfolio_website
-A porfolio website made by Kensly Pham
+A portfolio website made by Kensly Pham
